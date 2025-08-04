@@ -1,7 +1,8 @@
 # NLP Resources
-[![](https://img.shields.io/badge/update-anytime-success.svg)](https://github.com/jia-zh/NLP-Resources)
-  
-A useful list of NLP(Natural Language Processing) resources 
+This repository is curated and maintained by Prof. Yang Li’s NLP & AI group at Northeast Electric Power University.  
+We provide continuously updated open-source resources on Natural Language Processing (NLP), Machine Learning, and Causal AI.
+
+Visit our official website: [https://causalnlp.ai](https://causalnlp.ai)
   
 自然语言处理的相关资源列表，持续更新
   
