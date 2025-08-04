@@ -634,15 +634,16 @@ Visit our official website: [https://causalnlp.ai](https://causalnlp.ai)
     
     
 ## Reference
-有部分资源来自于以下工作，在此表示感谢：
-  
+
+本仓库中的部分资源参考并整理自以下优秀项目和社区资源，在此致以诚挚感谢：
+
 - [FunNLP](https://github.com/fighting41love/funNLP)  
-
 - [Awesome Chinese NLP](https://github.com/crownpku/Awesome-Chinese-NLP)  
+- [国内外自然语言处理(NLP)研究组](https://blog.csdn.net/wangxinginnlp/article/details/44890553)  
+- [NLP-Resources by Jia Zheng (zhengjia0826@163.com)](https://github.com/jia-zh/NLP-Resources)
 
-- [国内外自然语言处理(NLP)研究组](https://blog.csdn.net/wangxinginnlp/article/details/44890553) 
+特别鸣谢原作者 Jia Zheng（中科院软件所）对早期资源的整理与贡献。
 
-同时，对相关工作的作者一并表示感谢！
+我们团队在此基础上进行了内容更新、结构优化和长期维护。如引用了您的工作且未明确署名，请及时联系我们补充致谢。
 
-另外，相关资料的使用范围、授权请参考原始发布源（如果有的话），如有侵权，请联系我删除。
-
+📌 本仓库仅作学术学习与研究用途。相关资料的使用范围与授权请以原始发布源为准（如有）。如有侵权，请联系我们，我们将在第一时间处理或删除。
