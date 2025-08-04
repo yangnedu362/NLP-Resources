@@ -15,8 +15,7 @@ We aim to:
 - Foster collaboration in trustworthy and responsible AI.
   
   
-## Contents  
-目录  
+## Contents 目录  
 
 - [NLP Toolkits 自然语言处理工具包](#nlp-toolkits-自然语言处理工具包)  
   - [Toolkits 工具包](#toolkits)  
@@ -848,17 +847,30 @@ This section collects widely used Chinese NLP corpora, including general-purpose
    
     
     
-## Reference
+## 📌 Reference
 
-Some of the resources in this repository are adapted and organized based on the following excellent projects and community contributions. We express our sincere gratitude to their authors:
+This project draws upon and integrates outstanding open-source contributions from the following communities:
 
 - [FunNLP](https://github.com/fighting41love/funNLP)  
 - [Awesome Chinese NLP](https://github.com/crownpku/Awesome-Chinese-NLP)  
-- [Domestic and International NLP Research Groups](https://blog.csdn.net/wangxinginnlp/article/details/44890553)  
-- [NLP-Resources by Jia Zheng (zhengjia0826@163.com)](https://github.com/jia-zh/NLP-Resources)
+- [NLP Group Directory (China)](https://blog.csdn.net/wangxinginnlp/article/details/44890553)  
+- [NLP-Resources by Jia Zheng](https://github.com/jia-zh/NLP-Resources)  
 
-Special thanks to Jia Zheng (Software Institute, Chinese Academy of Sciences) for his early contributions in organizing and compiling many of the resources.
+Special thanks to Jia Zheng (Institute of Software, Chinese Academy of Sciences) for his early compilation and curation efforts.
 
-Our team has further updated the content, optimized the structure, and continues to maintain it over time. If your work has been referenced without explicit credit, please contact us for proper acknowledgment.
+Our team has further updated, reorganized, and continues to maintain this repository.  
+If your work has been used without proper attribution, please contact us for timely acknowledgment.
 
-📌 This repository is intended solely for academic learning and research purposes. Please refer to the original sources for usage permissions and licensing details. If you believe any content infringes your rights, please contact us and we will address or remove it promptly.
+> 📖 This repository is intended solely for academic learning and research.  
+> Please refer to the original sources for licensing and usage terms.  
+> If any content infringes on your rights, please contact us and we will promptly address it.
+
+---
+
+## 📫 Contact
+
+For questions, corrections, or collaboration inquiries, please reach out to:
+
+Prof. Yang Li 
+Email: [liyang@neepu.edu.cn](mailto:liyang@neepu.edu.cn)  
+Website: [https://CausalNLP.ai](https://CausalNLP.ai)
